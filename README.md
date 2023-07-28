@@ -31,7 +31,8 @@ The API is a C# based API to manage properties, just fill your UPI deatils Creat
 
 ## 🚀 Screenshot
 
-![](https://raw.githubusercontent.com/lukreitor/properties_managment_asp_net_core_7/img_1.jpeg)
+![APIS](img_1.jpeg)
+![APIS](img_2.jpeg)
 
 > Try the tool: [TRY_API](https://API.nothosted)
 
